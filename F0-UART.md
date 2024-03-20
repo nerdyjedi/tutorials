@@ -5,7 +5,7 @@ This tutorial is using Momentum FW mntm-001 and a Rabbit Labs Minion board but o
 1.	Start the Flipper and unplug from PC, remove the board if inserted
 2.	Start the UART Bridge by selecting GPIO from the main Menu \
 	<img width="300" src="https://github.com/nerdyjedi/tutorials/assets/102484166/75ed3117-7dec-460a-b708-5e16d11f8c9f"> \
-	**newbie mistake: it's not inside the apps menu.  Scroll if you don't see GPIO** \
+	**newbie mistake: it's not inside the apps menu.  Scroll if you don't see GPIO** 
 3.	Select USB-UART Bridge \
     <img width="300" src="https://github.com/nerdyjedi/tutorials/assets/102484166/b9f0dba7-674a-4e41-8ace-785fc65839d2"> 
 4.	While holding the boot button on the board, insert the board into the Flipper Zero GPIO pins and keep holding it for a few seconds.
